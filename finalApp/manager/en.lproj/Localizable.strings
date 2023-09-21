@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  finalApp
+
+  Created by IŞIL VARDARLI on 12.09.2023.
+  
+*/
+"Business" = "Business";
+
+"Turkish" = "Turkish" ;
+"English" = "English" ;
+"Arabic" = "Arabic" ;
+"German" = "German" ;
+"Spanish" = "Spanish" ;
+"French" = "French" ;
+"Hebrew" = "Hebrew" ;
+"Italian" = "Italian" ;
+"Dutch"  = "Dutch" ;
+"Norwegian" = "Norwegian" ;
+"Portuguese" = "Portuguese" ;
+"Russian" = "Russian" ;
+"Swedish" = "Swedish" ;
+"Chinese" = "Chinese" ;
+
+"Business" = "Business";
+"Entertainment" = "Entertainment";
+"General" = "General";
+"Health" = "Health";
+"Science" = "Science";
+"Sports" = "Sports";
+"Technology" = "Technology";
+
+"Welcome to PressPass!" = "Welcome to PressPass!";
+"We're here to provide you with the latest news from around the world and tailored content to match your interests" = "We're here to provide you with the latest news from around the world and tailored content to match your interests";
+
+"Great news for tech enthusiasts!" = "Great news for tech enthusiasts!";
+"We're making technology more understandable and enjoyable for you." = "We're making technology more understandable and enjoyable for you.";
+"Don't miss exciting tech developments every day!" = "Don't miss exciting tech developments every day!";
+"We'll keep you informed about the latest software updates, hardware reviews, and digital innovations." = "We'll keep you informed about the latest software updates, hardware reviews, and digital innovations.";
+
+"PressPass for not missing news from every sport branch!" = "PressPass for not missing news from every sport branch!";
+"Latest basketball, football, tennis, and more are here." = "Latest basketball, football, tennis, and more are here.";
+"Keeping up with the pulse of the business world is now easier!" = "Keeping up with the pulse of the business world is now easier!";
+
+"PressPass provides up-to-date business news and analyses for all business professionals." = "PressPass provides up-to-date business news and analyses for all business professionals.";
+
+"Follow opportunities in the financial world and economic analyses closely!" = "Follow opportunities in the financial world and economic analyses closely!";
+"PressPass helps you understand economic news better with its user-friendly interface." = "PressPass helps you understand economic news better with its user-friendly interface.";

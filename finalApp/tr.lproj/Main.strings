@@ -1,0 +1,72 @@
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "3Ov-hP-9Yl"; */
+"3Ov-hP-9Yl.normalTitle" = "Kayıt Ol";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "77p-Ft-tq2"; */
+"77p-Ft-tq2.text" = "Label";
+
+/* Class = "UILabel"; text = "Dark Mode"; ObjectID = "9fR-uy-GS5"; */
+"9fR-uy-GS5.text" = "Koyu Mod";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bo8-AM-MuV"; */
+"Bo8-AM-MuV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bxs-bW-ADz"; */
+"Bxs-bW-ADz.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "DEh-1c-dwQ"; */
+"DEh-1c-dwQ.normalTitle" = "Başlayalım";
+
+/* Class = "UILabel"; text = " Welcome to PressPass! "; ObjectID = "ERE-F9-siF"; */
+"ERE-F9-siF.text" = "PressPass'e Hoşgeldin";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "FBp-Fa-t8S"; */
+"FBp-Fa-t8S.placeholder" = "Email";
+
+/* Class = "UISearchBar"; placeholder = "About News"; ObjectID = "N8b-vi-EJa"; */
+"N8b-vi-EJa.placeholder" = "Haber Ara";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Rzh-VW-WjJ"; */
+"Rzh-VW-WjJ.placeholder" = "Şifre";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "UFk-Yb-PLY"; */
+"UFk-Yb-PLY.title" = "Çıkış Yap";
+
+/* Class = "UINavigationItem"; title = "Profil"; ObjectID = "X0w-ty-mh6"; */
+"X0w-ty-mh6.title" = "Ayarlar";
+
+/* Class = "UINavigationItem"; title = "Anasayfa"; ObjectID = "YOB-Du-lMH"; */
+"YOB-Du-lMH.title" = "Anasayfa";
+
+/* Class = "UILabel"; text = "Your credentials are incorrect."; ObjectID = "cBg-vm-NoM"; */
+"cBg-vm-NoM.text" = "Giriş bilgileriniz hatalı.";
+
+/* Class = "UITextField"; placeholder = "Password Confirmation"; ObjectID = "emk-hE-fPs"; */
+"emk-hE-fPs.placeholder" = "Şifre Doğrulama";
+
+/* Class = "UILabel"; text = "user email"; ObjectID = "gBc-yl-9ZX"; */
+"gBc-yl-9ZX.text" = "Kullanıcı Email";
+
+/* Class = "UITextField"; placeholder = "Select Language"; ObjectID = "gj7-j7-zuX"; */
+"gj7-j7-zuX.placeholder" = "Dil Seçiniz";
+
+/* Class = "UIButton"; normalTitle = "Forget Password "; ObjectID = "i21-QM-O4N"; */
+"i21-QM-O4N.normalTitle" = "Şifremi Unuttum";
+
+/* Class = "UILabel"; text = "We're here to provide you with the latest news from around the world and tailored content to match your interests."; ObjectID = "ibS-bB-xMZ"; */
+"ibS-bB-xMZ.text" = "Size dünyanın dört bir yanından en son haberleri ve ilgi alanlarınıza uygun özel içerikleri sunmak için buradayız.";
+
+/* Class = "UINavigationItem"; title = "Kaydedilen Haberler"; ObjectID = "pdC-ed-tHm"; */
+"pdC-ed-tHm.title" = "Kaydedilen Haberler";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "qHy-gE-gLa"; */
+"qHy-gE-gLa.normalTitle" = "Giriş Yap";
+
+/* Class = "UISegmentedControl"; yl0-Fe-Bz0.segmentTitles[0] = "Login"; ObjectID = "yl0-Fe-Bz0"; */
+"yl0-Fe-Bz0.segmentTitles[0]" = "Giriş Yap";
+
+/* Class = "UISegmentedControl"; yl0-Fe-Bz0.segmentTitles[1] = "Sign Up"; ObjectID = "yl0-Fe-Bz0"; */
+"yl0-Fe-Bz0.segmentTitles[1]" = "Kayıt Ol";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ziN-Dg-1xm"; */
+"ziN-Dg-1xm.text" = "Label2";

@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  finalApp
+
+  Created by IŞIL VARDARLI on 12.09.2023.
+  
+*/
+"Business" = "Ticaret";
+
+"Turkish" = "Türkçe";
+"English" = "İngilizce";
+"Arabic" = "Arapça";
+"German" = "Almanca";
+"Spanish" = "İspanyolca";
+"French" = "Fransızca";
+"Hebrew" = "İbranice";
+"Italian" = "İtalyanca";
+"Dutch"  = "Felemenkçe";
+"Norwegian" = "Norveççe";
+"Portuguese" = "Portekizce";
+"Russian" = "Rusça";
+"Swedish" = "İsveççe";
+"Chinese" = "Çince";
+
+"Business" = "Ticaret";
+"Entertainment" = "Eğlence";
+"General" = "Genel";
+"Health" = "Sağlık";
+"Science" = "Bilim";
+"Sports" = "Spor";
+"Technology" = "Teknoloji";
+
+"Welcome to PressPass!" = "PressPass'a hoş geldiniz!";
+"We're here to provide you with the latest news from around the world and tailored content to match your interests" = "Dünya genelinden en son haberleri ve ilgi alanlarınıza uygun içerikleri size sunmak için buradayız.";
+
+"Great news for tech enthusiasts!" = "Teknoloji meraklıları için harika bir haber!";
+
+"We're making technology more understandable and enjoyable for you." = "Teknolojiyi daha anlaşılır ve keyifli hale getiriyoruz.";
+"Don't miss exciting tech developments every day!" =  "Her gün heyecan verici teknoloji gelişmelerini kaçırmayın!";
+"We'll keep you informed about the latest software updates, hardware reviews, and digital innovations." = "En son yazılım güncellemeleri, donanım incelemeleri ve dijital yenilikler hakkında sizi bilgilendiririz.";
+
+"PressPass for not missing news from every sport branch!" = "Her spor dalından haberleri kaçırmamak için PressPass";
+"Latest basketball, football, tennis, and more are here." = "En son basketbol, futbol, tenis ve daha fazlası burada.";
+"Keeping up with the pulse of the business world is now easier!" = "İş dünyasının nabzını tutmak artık daha kolay!";
+"PressPass provides up-to-date business news and analyses for all business professionals." = "PressPass, tüm iş profesyonelleri için güncel iş haberleri ve analizler sunar.";
+"Follow opportunities in the financial world and economic analyses closely!" = "Finans dünyasındaki fırsatları ve ekonomik analizleri yakından takip edin!";
+"PressPass helps you understand economic news better with its user-friendly interface." = "PressPass, kullanıcı dostu arayüzü ile ekonomi haberlerini daha iyi anlamanızı sağlar.";
+
+

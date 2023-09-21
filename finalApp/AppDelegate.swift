@@ -6,14 +6,27 @@
 //
 
 import UIKit
+import Firebase
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
+  
+    /* TABLOYU SIFIRLAMAK İÇİN
+     let databaseManager = DatabaseManager.shared
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // Veritabanındaki kayıtları uygulama başlangıcında sıfırla
+        databaseManager.resetTable()
+        
+        // Diğer başlangıç işlemlerini devam ettir...
+        
+        return true
+    }
+     */
+    var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        FirebaseApp.configure()
         return true
     }
 

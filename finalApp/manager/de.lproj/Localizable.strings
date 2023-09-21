@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  finalApp
+
+  Created by IŞIL VARDARLI on 12.09.2023.
+  
+*/
+"Business" = "Unternehmen";
+
+"Turkish" = "Türkisch" ;
+"English" = "Englisch" ;
+"Arabic" = "Arabisch" ;
+"German" = "Deutsch" ;
+"Spanish" = "Spanisch" ;
+"French" = "Französisch"  ;
+"Hebrew" = "Hebräisch" ;
+"Italian" = "Italienisch" ;
+"Dutch"  = "Niederländisch" ;
+"Norwegian" = "Norwegisch" ;
+"Portuguese" = "Portugiesisch" ;
+"Russian" = "Russisch" ;
+"Swedish" = "Schwedisch" ;
+"Chinese" = "Chinesisch" ;
+
+"Business" = "Geschäft";
+"Entertainment" = "Unterhaltung";
+"General" = "Allgemein";
+"Health" = "Gesundheit";
+"Science" = "Wissenschaft";
+"Sports" = "Sport";
+"Technology" = "Technologie";
+
+"Welcome to PressPass!" = "Willkommen bei PressPass!";
+"We're here to provide you with the latest news from around the world and tailored content to match your interests" = "Wir sind hier, um Ihnen die neuesten Nachrichten aus der ganzen Welt und maßgeschneiderte Inhalte zu bieten, die Ihren Interessen entsprechen.";
+
+"Great news for tech enthusiasts!" = "Große Neuigkeiten für Technikbegeisterte!";
+
+"We're making technology more understandable and enjoyable for you." = "Wir machen Technologie für Sie verständlicher und unterhaltsamer.";
+
+"Don't miss exciting tech developments every day!" = "Verpassen Sie nicht aufregende technologische Entwicklungen jeden Tag!";
+
+"We'll keep you informed about the latest software updates, hardware reviews, and digital innovations." = "Wir halten Sie über die neuesten Software-Updates, Hardware-Bewertungen und digitale Innovationen auf dem Laufenden.";
+
+"PressPass for not missing news from every sport branch!" = "PressPass, um keine Nachrichten aus jeder Sportart zu verpassen!";
+
+"Latest basketball, football, tennis, and more are here." = "Hier gibt es die neuesten Nachrichten zu Basketball, Fußball, Tennis und mehr.";
+"Keeping up with the pulse of the business world is now easier!" = "Das Halten des Pulses der Geschäftswelt ist jetzt einfacher!";
+"PressPass provides up-to-date business news and analyses for all business professionals." = "PressPass bietet aktuelle Geschäftsnachrichten und Analysen für alle Geschäftsleute.";
+"Follow opportunities in the financial world and economic analyses closely!" = "Verfolgen Sie Gelegenheiten in der Finanzwelt und wirtschaftliche Analysen genau!";
+"PressPass helps you understand economic news better with its user-friendly interface." = "PressPass hilft Ihnen, Wirtschaftsnachrichten mit seiner benutzerfreundlichen Oberfläche besser zu verstehen.";
+
+
+
+
+
+
+
+
